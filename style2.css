@@ -1,0 +1,60 @@
+body h1 {
+    text-align: center;
+}
+body h2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+body h3 {
+    text-align: center;
+}
+
+body div {
+    text-align: center;
+    font-size: xx-large;
+}
+body h3 img {
+
+}
+body h5 {
+    text-align: center;
+}
+body h6 {
+    font-size: large;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+body h7 img {
+    float: none;
+    margin-left: 550px;
+}
+
+
+
+
+
+body h4 {
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: large;
+}
+body h7 {
+    text-align: center;
+
+
+}
+body h8 {
+    font-size: medium;
+    font-weight: bold;
+}
+body h2 a {
+    color: white;
+    text-decoration: none;
+}
+body h1 a {
+    color: blue;
+    text-decoration: none;
+}
+body h7 img {
+}
